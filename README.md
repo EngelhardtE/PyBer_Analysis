@@ -11,7 +11,7 @@ As shown in the PyBer Summary DataFrame, total rides, total drivers, and total f
 This rationale also applies to the Total Fare by City Type graph. Throughout the time period given, urban areas always had higher total fares than suburban cities, which always had higher toal fares than rural cities. While rural cities have a high average fare per ride, urban areas gross more in fares due to giving more total rides. Therefore, when comparing total fares, urban cities will most likely always come out on top. 
 
 
-[PyBer Summary DataFrame](https://imgur.com/gallery/AWv15G1)
+[PyBer Summary DataFrame](https://imgur.com/gallery/AWv15G1) <br />
 [Total Fare by City Type Graph](https://imgur.com/gallery/AWv15G1)
 
 ## Summary
